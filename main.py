@@ -6,4 +6,4 @@ if unit == "C" or unit == "c":
 elif unit == "F" or unit == "f":
   print(f"{temp}° in Fahrenheit is equivalent to {(temp-32)*5/9}° Celsius.")
 else:
-  print(f"Invalid unit({unit})");
+  print(f"Invalid unit({unit}).");
